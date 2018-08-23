@@ -10,5 +10,6 @@ beego/apiproject--使用beego开发api应用<br>
 beego/orm--beego的orm使用<br>
 goexcel--go操作excel<br>
 unit_testing--使用gomock进行单元测试<br>
+rabbitmq--go rabbitmq使用<br>
 
 
