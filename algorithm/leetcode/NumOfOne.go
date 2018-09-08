@@ -18,10 +18,6 @@ func NumOfOne(n int) int {
 		n &= n - 1
 	}
 
-	if n < 0 {
-		count++
-	}
-
 	return count
 }
 
