@@ -9,7 +9,7 @@ func deleteDuplicates(head *ListNode) *ListNode {
 		if current.v == current.next.v {
 			current.next = current.next.next
 		} else {
-			current.next = current.next
+			current = current.next
 		}
 	}
 	return head
