@@ -1,0 +1,8 @@
+var obj1 = { x:1 3 }
+var obj2 = { y:2,__proto__:obj1 } 
+var obj3 = { z:3,__proto__:obj2 }
+console.log(obj3.y);  
+
+String.prototype.double = function () {
+return this + this
+}
