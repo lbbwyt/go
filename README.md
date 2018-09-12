@@ -2,6 +2,7 @@
 algorithm--常用数据结构及算法的go语言实现<br>
 design-pattern--常用设计模式的go语言实现<br>
 http2--http2客户端和服务端的go语言实现<br>
+bloom filter--布隆过滤器的的go语言实现，及使用布隆过滤器进行url去重<br>
 douban--爬虫demo<br> 
 nanochat--一个使用vue.js和websocket的nano聊天室应用程序<br> 
 redis/redigo --使用redis实现分布式锁，单实例以及多实例<br> 
